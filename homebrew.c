@@ -17,7 +17,7 @@
  *       R = reload, K = key code finder, H = help, Q = quit to CP/M.
  */
 
-#define BIN_TYPE BIN_CPM
+#define BIN_TYPE BIN_HOMEBREW
 #define FONT_STANDARD
 #include <stdint.h>
 #include <stdbool.h>
