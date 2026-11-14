@@ -52,6 +52,7 @@ NABU News is brought to you by:
 * Myself -- Brandon Taylor -- The original idea
 * Claude -- The AI which did the heavy lifting
 * Mark (Intangybles) and productiondave for some much-needed ideas on how to improve both the program and the bridge.
+* GTAMP for additional help with converting the Cloud CP/M version into a homebrew version.
 
 # SPECIAL THANKS
 Obviously, I have to thank the original pioneer of the NABU Network, Mr. Leo Binkowski, as well as the man who has kept the NABU dream alive after all these years, DJ Sures. Thanks for giving us one hell of a ride thus far!
