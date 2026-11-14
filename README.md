@@ -39,7 +39,7 @@ The program recognizes the following keys:
 | R                                                                 | Reloads the headlines                           |
 | K                                                                 | Shows a key's code (to be removed in future)    |
 | H                                                                 | Displays help text                              |
-| Q                                                                 | Quits and returns to Cloud CP/M or Cloud GUI    |
+| Q                                                                 | Quits and returns to CP/M, or resets the NABU   |
 
 When you press GO or ENTER to bring up the story number prompt:
 * Use the number keys to select a story from 1 to 20.
